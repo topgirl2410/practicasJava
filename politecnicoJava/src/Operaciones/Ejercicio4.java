@@ -1,4 +1,4 @@
-package Variables;
+package Operaciones;
 
 public class Ejercicio4 {
 
